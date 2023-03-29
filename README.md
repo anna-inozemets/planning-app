@@ -1,5 +1,5 @@
 # Planning App
-- Click [here](https://anna-inozemets.github.io/todo-app/) to see demo link page
+- Click [here](https://anna-inozemets.github.io/planning-app/) to see demo link page
 - Technologies: React.js, JavaScript, TypeScript, HTML, SASS(SCSS), BEM
 
 # What you can do?
