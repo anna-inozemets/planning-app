@@ -1,4 +1,4 @@
-# Todo App
+# Planning App
 - Click [here](https://anna-inozemets.github.io/todo-app/) to see demo link page
 - Technologies: React.js, JavaScript, TypeScript, HTML, SASS(SCSS), BEM
 
